@@ -4,7 +4,7 @@ export const dictionary = {
       name: "Nguyen Hoai Gia Han",
       title: "Talent Acquisition & Employer Branding",
       tagline: "Connecting great talents with exceptional cultures through strategic and human-centered branding.",
-      email: "nguyenhoaigiahan1432004@gmail.com",
+      email: "job.nguyenhoaigiahan@gmail.com",
       linkedin: "https://www.linkedin.com/in/h%C3%A2n-nguy%E1%BB%85n-4955a2351/",
       about: "I am a Talent Acquisition and Employer Branding professional with hands-on experience in building viral social channels from scratch. I leverage robust recruitment marketing, engaging storytelling on TikTok/YouTube, and data-driven souring strategies to elevate company culture and seamlessly connect with top-tier candidates."
     },
@@ -49,6 +49,18 @@ export const dictionary = {
           { label: "Clip 3: 61.7K views", url: "https://vt.tiktok.com/ZSunSg7ut/" },
           { label: "YouTube Channel", url: "https://www.youtube.com/@khoailangmatvung" }
         ]
+      },
+      {
+        id: 4,
+        title: "Seasonal Staffing Operations Process (Management)",
+        description: "Built the comprehensive process from intake to operation for the Management Block (OM/AM/SM) for the year's peak period (Dec 26 - Jan 15 Lunar Calendar).",
+        tools: ["Canva", "Process Management", "Operations Strategy"],
+        metrics: [
+          "100% of Store Managers mastered intake & management",
+          "Successful rapid onboarding roadmap for immediate proficiency",
+          "100% control over headcount, timekeeping, and labor costs"
+        ],
+        pdfUrl: "/cam-nang-sm-tvt.pdf"
       }
     ],
     experience: [
@@ -99,7 +111,10 @@ export const dictionary = {
       footer: "Created by Trong Triet",
       employerBranding: "Employer Branding",
       digitalMarketing: "Recruitment & Sourcing",
-      dataAnalytics: "Design & Content Tools"
+      dataAnalytics: "Design & Content Tools",
+      documentation: "Documentation",
+      viewDocument: "Operations Handbook",
+      pdfNote: "(Detailed PDF version)"
     }
   },
   vi: {
@@ -107,7 +122,7 @@ export const dictionary = {
       name: "Nguyễn Hoài Gia Hân",
       title: "Chuyên viên tuyển dụng & Truyền thông thương hiệu tuyển dụng",
       tagline: "Kết nối tài năng tuyệt vời với văn hóa doanh nghiệp xuất sắc thông qua chiến lược tuyển dụng nhân bản và khác biệt.",
-      email: "nguyenhoaigiahan1432004@gmail.com",
+      email: "job.nguyenhoaigiahan@gmail.com",
       linkedin: "https://www.linkedin.com/in/h%C3%A2n-nguy%E1%BB%85n-4955a2351/",
       about: "Tôi là Chuyên viên Tuyển dụng và Thương hiệu Nhà tuyển dụng với kinh nghiệm thực chiến trong việc phát triển kênh mạng xã hội viral từ con số 0. Tôi sử dụng kỹ năng tiếp thị tuyển dụng, nghệ thuật kể chuyện (Storytelling) trên TikTok/YouTube để nâng tầm văn hóa công ty và thu hút nguồn ứng viên chất lượng nhất."
     },
@@ -152,6 +167,18 @@ export const dictionary = {
           { label: "Clip 3: 61,7k view", url: "https://vt.tiktok.com/ZSunSg7ut/" },
           { label: "Kênh YouTube", url: "https://www.youtube.com/@khoailangmatvung" }
         ]
+      },
+      {
+        id: 4,
+        title: "Quy trình Tiếp nhận & Vận hành nhân sự thời vụ (Khối Quản lý)",
+        description: "Xây dựng quy trình khép kín từ khâu tiếp nhận đến vận hành nhân sự thời vụ dành cho Khối Quản lý (OM/AM/SM), đảm bảo hiệu suất trong giai đoạn cao điểm nhất năm (26/12 ÂL - 15/01 ÂL).",
+        tools: ["Canva", "Process Management", "Định hướng vận hành"],
+        metrics: [
+          "100% Cửa hàng trưởng nắm vững quy trình tiếp nhận & quản lý",
+          "Lộ trình giúp nhân viên mới thạo việc ngay lập tức",
+          "Kiểm soát tuyệt đối quân số, chấm công và chi phí lương"
+        ],
+        pdfUrl: "/cam-nang-sm-tvt.pdf"
       }
     ],
     experience: [
@@ -159,21 +186,21 @@ export const dictionary = {
         id: 1,
         role: "Talent Acquisition cum. Employer Branding",
         company: "Công ty Thịnh Thế Vinh Hoa",
-        period: "T9/2025 – T3/2026",
+        period: "09/2025 – 03/2026",
         description: "Phụ trách tuyển dụng khối vận hành F&B. Xây dựng kênh TikTok Việc Làm Tam Hảo, thiết kế bộ nhận diện tuyển dụng và đảm bảo số lượng nhân sự khổng lồ cho các cửa hàng khai trương."
       },
       {
         id: 2,
         role: "Talent Acquisition (Freelancer)",
         company: "Golden Gate Group",
-        period: "T1/2026 – T2/2026",
+        period: "01/2026 – 02/2026",
         description: "Tuyển dụng nhân sự thời vụ Tết (phục vụ, phụ bếp) đẩy mạnh qua kênh Việc Làm Tốt và seeding Facebook, đem về số lượng hồ sơ chất lượng."
       },
       {
         id: 3,
         role: "Content Creator (Freelancer)",
         company: "Khoai Lang Mật Vừng",
-        period: "T6/2025 – T9/2025",
+        period: "06/2025 – 09/2025",
         description: "Làm việc độc lập như một đội ngũ production để phát triển kênh từ số không. Tự chủ động quán xuyến toàn bộ các khâu tạo nền móng: từ việc nghĩ ra content, thực thi lúc quay hình và chỉnh sửa video viral phân phối lên đa nền tảng cho chủ kênh."
       }
     ],
@@ -202,7 +229,10 @@ export const dictionary = {
       footer: "Created by Trong Triet",
       employerBranding: "Thương hiệu Nhàn Tuyển Dụng",
       digitalMarketing: "Tuyển dụng & Sourcing",
-      dataAnalytics: "Công cụ & Sáng tạo"
+      dataAnalytics: "Công cụ & Sáng tạo",
+      documentation: "Tài liệu",
+      viewDocument: "Cẩm nang Vận hành",
+      pdfNote: "(Bản chi tiết PDF)"
     }
   }
 };
