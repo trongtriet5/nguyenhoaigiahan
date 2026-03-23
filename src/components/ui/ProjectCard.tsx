@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { useLanguage } from "@/components/LanguageProvider";
-import { CheckCircle2, TrendingUp, Cpu } from "lucide-react";
+import { CheckCircle2, TrendingUp, Cpu, ExternalLink } from "lucide-react";
 
 interface ProjectCardProps {
   project: {
@@ -11,6 +11,7 @@ interface ProjectCardProps {
     description: string;
     tools: string[];
     metrics: string[];
+    links?: { label: string; url: string }[];
   };
   index: number;
 }
@@ -65,6 +66,29 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
             ))}
           </ul>
         </div>
+
+        {/* Links Section */}
+        {project.links && project.links.length > 0 && (
+          <div className="pt-4 border-t border-primary-100 dark:border-primary-900/30">
+            <span className="flex items-center gap-2 text-sm font-semibold text-blue-600 dark:text-blue-400 uppercase mb-2">
+              <ExternalLink className="w-4 h-4" /> {t.ui.evidence}
+            </span>
+            <div className="flex flex-wrap gap-2">
+              {project.links.map((link, i) => (
+                <a
+                  key={i}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-3 py-1.5 bg-blue-50 dark:bg-blue-950/30 hover:bg-blue-100 dark:hover:bg-blue-900/50 text-blue-700 dark:text-blue-300 text-sm rounded-lg font-medium transition-colors flex items-center gap-1.5"
+                >
+                  {link.label}
+                  <ExternalLink className="w-3 h-3" />
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </motion.div>
   );

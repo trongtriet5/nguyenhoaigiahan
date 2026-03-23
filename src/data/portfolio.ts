@@ -19,21 +19,36 @@ export const dictionary = {
         title: "TikTok Channel: 'Việc Làm Tam Hảo'",
         description: "Developed a recruitment-focused TikTok channel completely from zero, producing highly engaging organic videos to attract candidates for the F&B industry.",
         tools: ["Capcut", "TikTok", "Canva"],
-        metrics: ["3 viral clips (max 400K views)", "36 candidates from 1 organic video", "0 ad spend"]
+        metrics: ["3 viral clips (max 400K views)", "36 candidates from 1 organic video", "0 ad spend"],
+        links: [
+          { label: "Clip 1: 418K views", url: "https://vt.tiktok.com/ZSunBEJgu/" },
+          { label: "Clip 2: 192.8K views", url: "https://vt.tiktok.com/ZSunBELLX/" },
+          { label: "Clip 3: 36.8K views", url: "https://vt.tiktok.com/ZSunSMkVQ/" },
+          { label: "Clip 4: 26.1K views", url: "https://vt.tiktok.com/ZSunSMbQL/" }
+        ]
       },
       {
         id: 2,
-        title: "MayCha Recruitment Marketing",
-        description: "Conceptualized and designed recruitment visual identities (Posters, Banners) while crafting high-converting ad copy for various recruitment campaigns.",
-        tools: ["Photoshop", "Illustrator", "Facebook Ads"],
-        metrics: ["Optimized application flow", "Reduced candidate ghosting", "Built stable part-time pool"]
+        title: "TikTok Channel: 'Bay Xa Cùng MayCha'",
+        description: "Co-developed and supported the management of the 'Bay Xa Cùng MayCha' TikTok channel, acting slightly parallel to 'Việc Làm Tam Hảo'. Focus heavily on showcasing authentic corporate culture to engage talents.",
+        tools: ["TikTok", "Capcut", "Storytelling"],
+        metrics: ["Enhanced internal branding", "High organic engagement", "Boosted employer appeal"],
+        links: [
+          { label: "TikTok Channel", url: "https://www.tiktok.com/@vieclammaycha" }
+        ]
       },
       {
         id: 3,
         title: "Social Growth: 'Khoai Lang Mat Vung'",
-        description: "End-to-end content production (scriptwriting, shooting, editing) optimizing specifically for social media engagement and viewer insights.",
+        description: "Acted as a one-person production team to build the entire channel from scratch for the brand owner. Fully responsible for ideation, scriptwriting, shooting, editing, and publishing.",
         tools: ["Capcut", "TikTok", "YouTube Shorts"],
-        metrics: ["432K views on top trending video", "10.9K TikTok likes in 2 months", "80K views on YouTube Shorts"]
+        metrics: ["432K views on top trending video", "10.9K TikTok likes in 2 months", "80K views on YouTube Shorts"],
+        links: [
+          { label: "Clip 1: 452.9K views", url: "https://vt.tiktok.com/ZSunSLpAS/" },
+          { label: "Clip 2: 105.3K views", url: "https://vt.tiktok.com/ZSunSYTwv/" },
+          { label: "Clip 3: 61.7K views", url: "https://vt.tiktok.com/ZSunSg7ut/" },
+          { label: "YouTube Channel", url: "https://www.youtube.com/@khoailangmatvung" }
+        ]
       }
     ],
     experience: [
@@ -56,7 +71,7 @@ export const dictionary = {
         role: "Content Creator (Freelancer)",
         company: "Khoai Lang Mat Vung",
         period: "06/2025 - 09/2025",
-        description: "Built and managed TikTok & YouTube channels. Scripted, shot, and edited storytelling videos, achieving massive organic reach and multiple trending videos within the first opening month."
+        description: "Solely developed the TikTok and YouTube channels from the ground up for the client. Independently handled 100% of the content creation—from brainstorming and scriptwriting to filming, editing, and publishing."
       }
     ],
     ui: {
@@ -65,6 +80,7 @@ export const dictionary = {
       projectsDesc: "A selection of my best recruitment marketing and branding initiatives out in the wild.",
       toolsUsed: "Tools Used",
       metrics: "Key Metrics",
+      evidence: "Evidence",
       skillsTitle: "Core Competencies",
       skillsDesc: "Combining creative storytelling with recruitment strategy to build incredible employer brands.",
       expTitle: "Career Journey",
@@ -106,21 +122,36 @@ export const dictionary = {
         title: "Kênh TikTok Tuyển Dụng: 'Việc Làm Tam Hảo'",
         description: "Phát triển kênh TikTok chuyên biệt cho ứng viên ngành F&B từ con số 0, sáng tạo nội dung tự nhiên (organic) mang lại hiệu quả cao.",
         tools: ["Capcut", "TikTok", "Canva"],
-        metrics: ["3 clip viral (cao nhất 400K views)", "Nhận 36 hồ sơ tiềm năng từ 1 video", "Không tốn chi phí Ads"]
+        metrics: ["3 clip viral (cao nhất 400K views)", "Nhận 36 hồ sơ tiềm năng từ 1 video", "Không tốn chi phí Ads"],
+        links: [
+          { label: "Clip 1: 418k view", url: "https://vt.tiktok.com/ZSunBEJgu/" },
+          { label: "Clip 2: 192,8k view", url: "https://vt.tiktok.com/ZSunBELLX/" },
+          { label: "Clip 3: 36,8k view", url: "https://vt.tiktok.com/ZSunSMkVQ/" },
+          { label: "Clip 4: 26,1k view", url: "https://vt.tiktok.com/ZSunSMbQL/" }
+        ]
       },
       {
         id: 2,
-        title: "Chiến dịch Tuyển dụng MayCha",
-        description: "Lên ý tưởng, thiết kế bộ nhận diện tuyển dụng (Poster, Banner) và viết nội dung tối ưu tỷ lệ chuyển đổi cho chiến dịch Ads.",
-        tools: ["Photoshop", "Illustrator", "Facebook Ads"],
-        metrics: ["Tối ưu quy trình thu hút", "Giảm đáng kể tỷ lệ 'ghosting'", "Xây dựng nguồn part-time ổn định"]
+        title: "Kênh TikTok Tuyển dụng & Văn hóa: 'Bay Xa Cùng MayCha'",
+        description: "Hỗ trợ quản trị kênh TikTok 'Bay Xa Cùng MayCha', tập trung sâu vào câu chuyện văn hóa doanh nghiệp. Tương tự như Việc Làm Tam Hảo, tôi tham gia xây dựng và phát triển song song cả 2 kênh này.",
+        tools: ["TikTok", "Capcut", "Storytelling"],
+        metrics: ["Lan tỏa văn hóa nội bộ", "Kết nối tự nhiên với gen Z", "Gia tăng uy tín của thương hiệu"],
+        links: [
+          { label: "Kênh TikTok", url: "https://www.tiktok.com/@vieclammaycha" }
+        ]
       },
       {
         id: 3,
         title: "Xây dựng Kênh: 'Khoai Lang Mật Vừng'",
-        description: "Sản xuất toàn trình (viết kịch bản, quay, dựng clip) tập trung vào storytelling để tối ưu tương tác truyền thông.",
+        description: "Xây dựng kênh hoàn toàn từ con số 0 cho chủ sở hữu trang. Một mình đảm nhiệm 100% quy trình sản xuất thực tế: lên ý tưởng, viết kịch bản, quay và dựng hoàn chỉnh mọi video.",
         tools: ["Capcut", "TikTok", "YouTube Shorts"],
-        metrics: ["1 video xu hướng đạt 432K views", "Thu hút 10.9K likes TikTok trong 2 tháng", "80K lượt xem Youtube Shorts"]
+        metrics: ["1 video xu hướng đạt 432K views", "Thu hút 10.9K likes TikTok trong 2 tháng", "80K lượt xem Youtube Shorts"],
+        links: [
+          { label: "Clip 1: 452,9k view", url: "https://vt.tiktok.com/ZSunSLpAS/" },
+          { label: "Clip 2: 105,3k view", url: "https://vt.tiktok.com/ZSunSYTwv/" },
+          { label: "Clip 3: 61,7k view", url: "https://vt.tiktok.com/ZSunSg7ut/" },
+          { label: "Kênh YouTube", url: "https://www.youtube.com/@khoailangmatvung" }
+        ]
       }
     ],
     experience: [
@@ -143,7 +174,7 @@ export const dictionary = {
         role: "Content Creator (Freelancer)",
         company: "Khoai Lang Mật Vừng",
         period: "T6/2025 – T9/2025",
-        description: "Quản lý và xây dựng kênh TikTok & YouTube. Tự chủ động lên kịch bản, sản xuất nội dung viral đạt thành công vượt bậc trong tháng đầu tiên."
+        description: "Làm việc độc lập như một đội ngũ production để phát triển kênh từ số không. Tự chủ động quán xuyến toàn bộ các khâu tạo nền móng: từ việc nghĩ ra content, thực thi lúc quay hình và chỉnh sửa video viral phân phối lên đa nền tảng cho chủ kênh."
       }
     ],
     ui: {
@@ -152,6 +183,7 @@ export const dictionary = {
       projectsDesc: "Tuyển tập những chiến dịch truyền thông và chiến lược tuyển dụng thực chiến tốt nhất của tôi.",
       toolsUsed: "Công cụ sử dụng",
       metrics: "Thành tựu",
+      evidence: "Minh chứng",
       skillsTitle: "Năng lực cốt lõi",
       skillsDesc: "Kết hợp tư duy tuyển dụng và tiếp thị sáng tạo để thu hút nhân tài.",
       expTitle: "Hành trình Sự nghiệp",
