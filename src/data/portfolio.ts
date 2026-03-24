@@ -4,7 +4,7 @@ export const dictionary = {
       name: "Nguyen Hoai Gia Han",
       title: "Talent Acquisition & Employer Branding",
       tagline: "Connecting great talents with exceptional cultures through strategic and human-centered branding.",
-      email: "job.nguyenhoaigiahan@gmail.com",
+      email: "job.nguyenhoaigiahan14@gmail.com",
       linkedin: "https://www.linkedin.com/in/han-nguyen-4955a2351/",
       about: "I am a Talent Acquisition and Employer Branding professional with hands-on experience in building viral social channels from scratch. I leverage robust recruitment marketing, engaging storytelling on TikTok/YouTube, and data-driven souring strategies to elevate company culture and seamlessly connect with top-tier candidates."
     },
@@ -122,7 +122,7 @@ export const dictionary = {
       name: "Nguyễn Hoài Gia Hân",
       title: "Chuyên viên tuyển dụng & Truyền thông thương hiệu tuyển dụng",
       tagline: "Kết nối tài năng tuyệt vời với văn hóa doanh nghiệp xuất sắc thông qua chiến lược tuyển dụng nhân bản và khác biệt.",
-      email: "job.nguyenhoaigiahan@gmail.com",
+      email: "job.nguyenhoaigiahan14@gmail.com",
       linkedin: "https://www.linkedin.com/in/han-nguyen-4955a2351/",
       about: "Tôi là Chuyên viên Tuyển dụng và Thương hiệu Nhà tuyển dụng với kinh nghiệm thực chiến trong việc phát triển kênh mạng xã hội viral từ con số 0. Tôi sử dụng kỹ năng tiếp thị tuyển dụng, nghệ thuật kể chuyện (Storytelling) trên TikTok/YouTube để nâng tầm văn hóa công ty và thu hút nguồn ứng viên chất lượng nhất."
     },
